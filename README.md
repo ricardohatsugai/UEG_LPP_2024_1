@@ -1,7 +1,6 @@
 # UEG - Linguagens e Paradigmas de Programação (Turma A) - 2024 - 1º semestre
-<h1 align="left">
-  <img src="/imagens/">
-</h1>
+<img align="right" width="200" height="200" src="/imagens/baixados.png">
+
 ## Repositório: UEG_LPP_2024_1
 | Professor | Rafael Viana de Carvalho |
 |----|----|
